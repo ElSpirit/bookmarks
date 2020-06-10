@@ -1,5 +1,7 @@
 # Геймификация
-[Создание игрового мира с нуля - Мастер-класс - Каталог статей - Литературный портал БЛИК](http://blikportal.com/publ/master_klass/sozdanie_igrovogo_mira_s_nulja/1-1-0-99)
+
+[Создание игрового мира с нуля - Мастер-класс - Каталог статей - Литературный портал БЛИК](http://blikportal.com/publ/master_klass/sozdanie_igrovogo_mira_s_nulja/1-1-0-99 "podskazka")
+
 
 <DT><A HREF="http://rpg-zone.ru/index.php?showtopic=3301">Создание игрового мира с нуля &lt; RPG-Zone.ru - настольные и форумные ролевые игры</A>
 <DT><A HREF="https://dtf.ru/gamedev/24889-sozdanie-igrovogo-mira-malymi-silami-opyt-avtorov-breathedge">Создание игрового мира малыми силами: опыт авторов Breathedge — Gamedev на DTF</A>
