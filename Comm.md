@@ -1,6 +1,6 @@
 
 <h1>Закладки</h1>
-<DT><H3 FOLDED>Современные коммуникации в в образовании</H3>
+<DT><H3 FOLDED>Современные коммуникации в образовании</H3>
 			<DL><p>
 				<DT><A HREF="https://www.science-education.ru/ru/article/view?id=19662">СОВРЕМЕННЫЕ ФОРМЫ КОММУНИКАЦИИ В ОБУЧЕНИИ ГЕОГРАФИИ - Современные проблемы науки и образования (научный журнал)</A>
 				<DT><A HREF="http://anthropology.ru/ru/edition/kommunikaciya-i-obrazovanie">Коммуникация и образование | Anthropology</A>
