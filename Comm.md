@@ -1,8 +1,5 @@
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-	<HTML>
-	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-	<Title>Закладки</Title>
-	<H1>Закладки</H1>
+
+<h1>Закладки</h1>
 <DT><H3 FOLDED>Современные коммуникации в в образовании</H3>
 			<DL><p>
 				<DT><A HREF="https://www.science-education.ru/ru/article/view?id=19662">СОВРЕМЕННЫЕ ФОРМЫ КОММУНИКАЦИИ В ОБУЧЕНИИ ГЕОГРАФИИ - Современные проблемы науки и образования (научный журнал)</A>
@@ -187,4 +184,3 @@
 				<DT><A HREF="https://sas.utmn.ru/ru/russian-students/?fbclid=IwAR1nLoIC7CrCVSDhNKT5uHWcJel5glWQeozpJK3ADbvOdQjBikex89N33AQ">РОССИЙСКИЕ СТУДЕНТЫ ГЛАЗАМИ ИНОСТРАННЫХ ПРОФЕССОРОВ » School of advanced studies</A>
 				<DT><A HREF="https://www.adme.ru/svoboda-psihologiya/specialist-po-etiketu-rasskazala-kak-dat-otpor-tem-kto-naproch-lishen-vezhlivosti-i-takta-2489115/">Специалист по этикету рассказала, как дать отпор тем, кто напрочь лишен вежливости и такта</A>
 			</DL><p>
-</HTML>
